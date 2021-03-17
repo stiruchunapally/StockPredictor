@@ -7,9 +7,9 @@ the date 3/27/2018 (the date the data set used ends).
 
 ## Note
 In order to run this application, jupyter notebook and the following libraries are needed.
-*quandl
-*pandas
-*numpy
-*matPlotLib
-*datetime
-*sklearn
+* quandl
+* pandas
+* numpy
+* matPlotLib
+* datetime
+* sklearn
