@@ -1,4 +1,4 @@
-# Stock Price Predictor
+# Stock Price Predictor (Tutorial from thecodex.me)
 
 ## What is it?
 
